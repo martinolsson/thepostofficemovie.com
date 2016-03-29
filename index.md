@@ -11,10 +11,10 @@ title: Postkontoret
 	<figcaption><a href="#" onclick="alert('Not done yet.');">Watch with English Subtitles</a></figcaption>
 </figure>
 
-<h1>We made a puppet movie!</h1>
+<h1 style="clear:both">We made a puppet movie!</h1>
 
 <div class="twocol">
-	<p class="lead">In 1912 Nobel Prize author Rabindranath Tagore wrote "The Post Office" which has since been loved all over the world. In 2015 a group of pupeteers, actors and artists led by Silvia Bergman envisioned the play as a puppet movie. This is the result.</p>
+	<p class="lead">In 1912 Nobel Prize author Rabindranath Tagore wrote "The Post Office". In 2015 a group of pupeteers, actors and artists led by Silvia Bergman envisioned the play as a puppet movie. <i>Postkontoret</i> is the result.</p>
 		
 	<p class="lead">The 40 minute movie is free to watch, but if you like it please consider donating so we can cover costs make an English dialogue version.</p>
 
@@ -86,7 +86,7 @@ title: Postkontoret
 		<dd>The herald &ndash; Silvia Bergman</dd>
 		<dd>King's doctor &ndash; Henning Landin</dd>
 
-		<dt>Camera, editing, sound</dt>
+		<dt>Camera, sound, lights, editing</dt>
 		<dd>Martin Olsson</dd>
 
 		<dt>Scenography, exterior</dt>

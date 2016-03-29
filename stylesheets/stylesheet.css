@@ -360,6 +360,12 @@ Small Device Styles
     font-size: 11px;
   }
 
+  .twocol, .threecol {
+    -webkit-column-count: 1 !important; /* Chrome, Safari, Opera */
+    -moz-column-count: 1 !important; /* Firefox */
+    column-count: 1 !important;
+  }
+
 }
 
 @media screen and (max-width: 320px) {
@@ -367,6 +373,8 @@ Small Device Styles
     min-width: 280px;
     max-width: 280px;
   }
+
+  
 }
 
 .video-container {
