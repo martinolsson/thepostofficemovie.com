@@ -96,6 +96,10 @@ p {
   margin-bottom: 15px;
 }
 
+p.lead {
+  font-size: 20px;
+}
+
 footer p {
   color: #f2f2f2;
 }
