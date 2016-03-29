@@ -5,10 +5,13 @@ title: Postkontoret
 
 <figure>
 	<div class="video-container">
-		<iframe width="100%" height="auto" src="https://www.youtube.com/embed/hkv4AnR743g" frameborder="0" allowfullscreen="true"></iframe>
+		<iframe name="movie" id="movie" width="100%" height="auto" src="https://www.youtube.com/embed/hkv4AnR743g" frameborder="0" allowfullscreen="true"></iframe>
 	</div>
 
-	<figcaption><a href="#" onclick="alert('Not done yet.');">Watch with English Subtitles</a></figcaption>
+	<figcaption>
+	<a href="https://www.youtube.com/embed/k1I_VPIBZFU" target="movie">English Subtitles</a>
+	<a href="https://www.youtube.com/embed/hkv4AnR743g" target="movie">Svenska</a>
+	</figcaption>
 </figure>
 
 <h1 style="clear:both">We made a puppet movie!</h1>

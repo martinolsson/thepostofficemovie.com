@@ -1,1 +1,5 @@
-console.log('This would be the main JS file.');
+
+
+function setFrame(id, url) {
+	document.getElementById(id).src = url;
+}
