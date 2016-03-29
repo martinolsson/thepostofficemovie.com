@@ -398,6 +398,16 @@ Small Device Styles
     column-count: 3;
 }
 
+.spanone {
+    -webkit-column-span: 1; 
+    column-span: 1; 
+}
+
+.spantwo {
+    -webkit-column-span: 2; 
+    column-span: 2; 
+}
+
 figcaption {
   margin-top: 10px;
   float: right;

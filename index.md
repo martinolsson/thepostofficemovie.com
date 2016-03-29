@@ -22,9 +22,11 @@ title: Postkontoret
 
 <h2>Support the project</h2>
 
-<div class="threecol">
-	<p>We made this movie out of love: if you love it too please consider supporting us. The movie is free to watch. Any money we make will be used to cover expenses and to make an English dialogue version.</p>
-	<p style="">
+<div>
+	<p>
+	We made this movie out of love: if you love it too please consider supporting us. The movie is free to watch. Any money we make will be used to cover expenses and to make an English dialogue version.</p>
+
+	<p>
 		<form  action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" 
 			   style="text-align: center">
 			<input type="hidden" name="cmd" value="_s-xclick">
