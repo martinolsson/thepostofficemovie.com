@@ -53,14 +53,14 @@ body {
   box-sizing: border-box;
   color:#f2f2f2;
   background: #212121;
-  font-size: 17px;
+  font-size: 18px;
   font-family: 'Minion Pro Medium', serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 10px 0;
+  margin: 30px 0 5px 0;
   color:#f2f2f2;
   font-family: 'Minion Pro Medium', serif;
 }
@@ -92,7 +92,7 @@ h6 {
 }
 
 p {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 p.lead {
@@ -277,7 +277,7 @@ Full-Width Styles
 
 #project_tagline {
   color: #f2f2f2;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
