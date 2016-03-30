@@ -367,6 +367,8 @@ Small Device Styles
 
 .video-container {
   position:relative;
+  padding-bottom:56.25%;
+  padding-top:0;
   height:0;
   overflow:hidden;
   box-shadow: 0 0 15px #000;
