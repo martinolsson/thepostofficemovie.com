@@ -107,17 +107,6 @@ a {
   text-decoration: none;
   color: #0099aa;
   text-shadow: none;
-
-  transition: color 0.5s ease;
-  transition: text-shadow 0.5s ease;
-  -webkit-transition: color 0.5s ease;
-  -webkit-transition: text-shadow 0.5s ease;
-  -moz-transition: color 0.5s ease;
-  -moz-transition: text-shadow 0.5s ease;
-  -o-transition: color 0.5s ease;
-  -o-transition: text-shadow 0.5s ease;
-  -ms-transition: color 0.5s ease;
-  -ms-transition: text-shadow 0.5s ease;
 }
 
 a:hover, a:focus {text-decoration: underline;}
@@ -397,6 +386,13 @@ Small Device Styles
   height:100%;
 }
 
+.onecol {
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+}
+
+
 .twocol {
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
     -moz-column-count: 2; /* Firefox */
@@ -407,16 +403,6 @@ Small Device Styles
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
-}
-
-.spanone {
-    -webkit-column-span: 1; 
-    column-span: 1; 
-}
-
-.spantwo {
-    -webkit-column-span: 2; 
-    column-span: 2; 
 }
 
 figcaption {
