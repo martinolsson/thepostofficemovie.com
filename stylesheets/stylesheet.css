@@ -340,7 +340,7 @@ Small Device Styles
     column-count: 3;
 }
 
-figcaption {
+.caption {
   margin-top: 10px;
   float: right;
 }
