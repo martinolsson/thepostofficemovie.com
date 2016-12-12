@@ -340,6 +340,12 @@ Small Device Styles
     column-count: 3;
 }
 
+.gallery img {
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
+
 .caption {
   margin-top: 10px;
   float: right;
