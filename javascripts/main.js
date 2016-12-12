@@ -1,3 +1,3 @@
-function toggleSpan(e) {
-  $(e.target).toggleClass('spanCols');
-}
+$('._toggleSpan').click(function(){
+    $(this).toggleClass('spanCols');
+});
