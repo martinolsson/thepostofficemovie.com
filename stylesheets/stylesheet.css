@@ -341,6 +341,7 @@ Small Device Styles
 }
 
 .gallery img {
+    display: block;
     width: 100% !important;
     height: auto !important;
     padding: 0;
