@@ -340,10 +340,17 @@ Small Device Styles
     column-count: 3;
 }
 
+.gallery {
+    -webkit-column-gap: 0; /* Chrome, Safari, Opera */
+    -moz-column-gap: 0; /* Firefox */
+    column-gap: 0;
+}
+
 .gallery img {
     display: block;
-    width: 100% !important;
-    height: auto !important;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
     padding: 0;
     margin: 0;
 }
