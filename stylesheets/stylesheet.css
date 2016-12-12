@@ -355,6 +355,12 @@ Small Device Styles
     margin: 0;
 }
 
+.spanCols {
+    -webkit-column-span: all; /* Chrome, Safari, Opera */
+    -moz-column-span: all; /* Firefox */
+    column-span: all;
+}
+
 .caption {
   margin-top: 10px;
   float: right;
