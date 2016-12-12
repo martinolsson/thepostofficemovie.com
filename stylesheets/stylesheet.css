@@ -355,10 +355,18 @@ Small Device Styles
     margin: 0;
 }
 
+.gallery img:hover {
+    width: 110%;
+}
+
 .spanCols {
     -webkit-column-span: all; /* Chrome, Safari, Opera */
     -moz-column-span: all; /* Firefox */
     column-span: all;
+}
+
+._toggleClass {
+  cursor: pointer;
 }
 
 .caption {
