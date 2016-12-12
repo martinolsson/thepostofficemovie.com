@@ -1,3 +1,3 @@
 toggleColumns(e) {
-  $(e).toggleClass('spanCol');
+  $(e.target).toggleClass('spanCol');
 }
